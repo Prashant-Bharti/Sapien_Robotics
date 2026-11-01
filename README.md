@@ -1,8 +1,8 @@
-# Sapien Robotics – AI Vision Assignments
+# Sapien Robotics – AI Vision Projects
 
 ---
 
-## Assignment 1: Custom Object Detection with Model Training from Scratch
+## Project 1: Custom Object Detection with Model Training from Scratch
 
 This project implements a complete object detection pipeline trained **entirely from scratch** (no pre-trained weights) on a custom dataset containing **3–5 object classes**. The objective is to design, train, and evaluate a robust detection system using architectures such as **Faster R-CNN** or a **custom CNN-based detector**.
 
@@ -17,7 +17,7 @@ The repository also provides **real-time detection videos/GIFs** demonstrating i
 
 ---
 
-## Assignment 2: Automated Quality Inspection System for Manufacturing
+## Project 2: Automated Quality Inspection System for Manufacturing
 
 This project develops an end-to-end **automated visual inspection system** for detecting and classifying defects in manufactured products such as **PCBs, fabrics, or printed materials**.
 
@@ -32,7 +32,7 @@ The dataset includes both **defective and non-defective samples** with full anno
 
 ---
 
-##  Assignment 3: Custom VLM Design for Industrial Quality Inspection
+##  Project 3: Custom VLM Design for Industrial Quality Inspection
 
 This section presents the design of a **custom Vision–Language Model (VLM)** for **offline PCB inspection** in a semiconductor manufacturing environment.
 
